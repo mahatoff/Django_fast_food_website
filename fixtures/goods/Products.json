@@ -1,0 +1,380 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Донер куриный",
+            "slug": "doner-kurinyj",
+            "description": "Состав этого донера: картофель фри, куриная грудка, бездрожжевой лаваш,",
+            "image": "goods_images/doner.jpg",
+            "price": "1290.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Донер говяжий",
+            "slug": "doner-govyazhij",
+            "description": "Состав этого донера: картофель фри, говяжий фарш, бездрожжевой лаваш,",
+            "image": "goods_images/doner_O3k26hi.jpg",
+            "price": "1390.00",
+            "discount": "2.00",
+            "quantity": 96,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "Донер ассорти",
+            "slug": "doner-assorti",
+            "description": "Состав этого донера: картофель фри, куриная грудка, говяжий фарш бездрожжевой лаваш,",
+            "image": "goods_images/doner2.jpg",
+            "price": "1390.00",
+            "discount": "0.00",
+            "quantity": 99,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Сет 1",
+            "slug": "set-1",
+            "description": "Состав данного сета: Coca-cola 0.5, картофель фри, бургер куриный",
+            "image": "goods_images/SET1.jpg",
+            "price": "1990.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "Сет 2",
+            "slug": "set-2",
+            "description": "Coca-cola 0.5, картофель фри, бургер говяжий",
+            "image": "goods_images/SET2_yZsbWWK.jpg",
+            "price": "2090.00",
+            "discount": "10.00",
+            "quantity": 100,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "Сет 3",
+            "slug": "set-3",
+            "description": "Coca-cola 0.5, картофель фри, бургер куриный, пицца \"Маргарита\"",
+            "image": "goods_images/SET3.jpg",
+            "price": "2990.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Пицца 4 сезона",
+            "slug": "picca-4-sezona",
+            "description": "Состав: томатный соус, сыр, курочка гриль, помидоры, охотничьи колбаски, шампиньоны",
+            "image": "goods_images/pizza.jpg",
+            "price": "2490.00",
+            "discount": "0.00",
+            "quantity": 99,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Пицца Куриная",
+            "slug": "picca-kurinaya",
+            "description": "Состав: куриная филе , айсберг , цезарь соус , помидоры черри , сыр пармезан , сыр мацареллла",
+            "image": "goods_images/pizza2.jpg",
+            "price": "2290.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "Пицца Пепперони",
+            "slug": "picca-pepperoni",
+            "description": "Состав: колбаса пепперони , сыр мацарелла",
+            "image": "goods_images/pizza3.jpg",
+            "price": "2090.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Бургер Говяжий",
+            "slug": "burger-govyazhij",
+            "description": "Котлета из говядины, булочка, сыр моцарелла, горчичный соус, томаты и огурчики",
+            "image": "goods_images/burger_1COukdz.jpg",
+            "price": "1390.00",
+            "discount": "5.00",
+            "quantity": 100,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 13,
+        "fields": {
+            "name": "Бургер Куриный",
+            "slug": "burger-kurinyj",
+            "description": "Котлета из курицы, булочка, соус цезарь, томаты, лист салата, айсберг, сыр чеддер",
+            "image": "goods_images/burger2.jpg",
+            "price": "1290.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 14,
+        "fields": {
+            "name": "Чизбургер",
+            "slug": "chizburger",
+            "description": "Котлета из говядины, соус \"Дайнер\", маринованные огурцы, кетчуп, томаты, айсберг, сыр чеддер",
+            "image": "goods_images/burger3.jpg",
+            "price": "1490.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 15,
+        "fields": {
+            "name": "Салат с авокадо",
+            "slug": "salat-s-avokado",
+            "description": "Состав: Авокадо, микс зелени, вяленые помидоры, брокколи, масло оливковое, киноа, перчики запечённые, огурцы, помидоры, черри, соус медово-имбирный",
+            "image": "goods_images/salat_avocado.jpg",
+            "price": "1700.00",
+            "discount": "3.00",
+            "quantity": 100,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 16,
+        "fields": {
+            "name": "Салат с кониной",
+            "slug": "salat-s-koninoj",
+            "description": "Состав: Казы, жая, брокколи, перчики запеченные, соус медово-имбирный, тыквенные семечки, киноа",
+            "image": "goods_images/salat_konina_QzFhOaL.jpg",
+            "price": "1300.00",
+            "discount": "0.00",
+            "quantity": 99,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 17,
+        "fields": {
+            "name": "Салат Токио",
+            "slug": "salat-tokio",
+            "description": "Состав: Рис бурый, креветки, капуста ферментированная, микс зелени, брокколи, масло оливковое, кунжут, перчик вяленые, помидоры, соус медово-имбирный",
+            "image": "goods_images/salat_tokyo.jpg",
+            "price": "1500.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 18,
+        "fields": {
+            "name": "Хотдог Чили",
+            "slug": "hotdog-chili",
+            "description": "Хрустящий французский багет с говяжьей колбаской, жаренным луком и острым перцем халапенью, приправлен кетчупом и горчичными соусом.",
+            "image": "goods_images/hot1.jpg",
+            "price": "700.00",
+            "discount": "10.00",
+            "quantity": 100,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 19,
+        "fields": {
+            "name": "Хотдог Говяжий",
+            "slug": "hotdog-govyazhij",
+            "description": "Хрустящий французский багет с говяжьей колбаской, жаренным луком и острым перцем халапенью, приправлен кетчупом и горчичными соусом.",
+            "image": "goods_images/hot2.jpg",
+            "price": "700.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 20,
+        "fields": {
+            "name": "Хотдог Куриный",
+            "slug": "hotdog-kurinyj",
+            "description": "Хрустящий французский багет с говяжьей колбаской, жаренным луком и острым перцем халапенью, приправлен кетчупом и горчичными соусом.",
+            "image": "goods_images/hot3.jpg",
+            "price": "700.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 21,
+        "fields": {
+            "name": "Шашлык Баранина",
+            "slug": "shashlyk-baranina",
+            "description": "Сочный шашлык из мясо ягненка.",
+            "image": "goods_images/shashlyk1.jpg",
+            "price": "1790.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 22,
+        "fields": {
+            "name": "Шашлык окорочка",
+            "slug": "shashlyk-okorochka",
+            "description": "Сочный шашлык из мясо курочки.",
+            "image": "goods_images/shashlyk2.jpg",
+            "price": "1490.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 23,
+        "fields": {
+            "name": "Шашлык говядина",
+            "slug": "shashlyk-govyadina",
+            "description": "Шашлык из мясо телёнка.",
+            "image": "goods_images/shashlyk3.jpg",
+            "price": "1990.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 24,
+        "fields": {
+            "name": "Крылышки 4 шт",
+            "slug": "krylyshki-4-sht",
+            "description": "Сочные куриные ножки.",
+            "image": "goods_images/chicken.jpg",
+            "price": "1000.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 9
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 25,
+        "fields": {
+            "name": "Крылышки 8 шт",
+            "slug": "krylyshki-8-sht",
+            "description": "Сочные куриные ножки.",
+            "image": "goods_images/chicken_F4erQKo.jpg",
+            "price": "1800.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 9
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 26,
+        "fields": {
+            "name": "Крылышки 16 шт",
+            "slug": "krylyshki-16-sht",
+            "description": "Сочные куриные ножки.",
+            "image": "goods_images/chicken_FPGuex8.jpg",
+            "price": "2900.00",
+            "discount": "15.00",
+            "quantity": 100,
+            "category": 9
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 27,
+        "fields": {
+            "name": "Cheese рамен",
+            "slug": "cheese-ramen",
+            "description": "куриный бульон, сыр чеддер, сыр эмменталь, сыр пармезан, нежная куриная грудка, кукуруза, сладкий перец",
+            "image": "goods_images/ramen_G9Dfpqu.jpg",
+            "price": "2450.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 10
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 28,
+        "fields": {
+            "name": "Средне-острый рамен",
+            "slug": "sredne-ostryj-ramen",
+            "description": "Куриный бульон,  ким-чи, тофу, фарш со сладкой соевой пастой, \r\nострая паста - кучуджан, мисо паста",
+            "image": "goods_images/ramen2.jpg",
+            "price": "2200.00",
+            "discount": "0.00",
+            "quantity": 100,
+            "category": 10
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 29,
+        "fields": {
+            "name": "Веган рамен",
+            "slug": "vegan-ramen",
+            "description": "Овощной бульон, кунжутная паста, соевое молоко, бобы Эдамаме, маринованный красный лук, чили масло Раю, ростки дайкона.",
+            "image": "goods_images/ramen3.jpg",
+            "price": "2750.00",
+            "discount": "2.00",
+            "quantity": 100,
+            "category": 10
+        }
+    }
+]
